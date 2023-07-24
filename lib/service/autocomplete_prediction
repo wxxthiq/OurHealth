@@ -1,0 +1,12 @@
+class AutocompletePrediction{
+    final String? description;
+    final StructuredFormatting? structuredFormatting
+    final String? placeId;
+    final String? reference;
+    
+    AutocompletePrediction({
+    this.description,
+    this.structuredFormatting,
+    this.placeId,
+    this.reference, });
+}

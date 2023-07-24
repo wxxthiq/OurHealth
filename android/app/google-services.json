@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "796722016166",
+    "project_id": "ourhealth-996c6",
+    "storage_bucket": "ourhealth-996c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796722016166:android:b57b413c94bb530d5ca967",
+        "android_client_info": {
+          "package_name": "com.example.ourhealth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "796722016166-ilo5p35f32gactr6c3m091qjij15t7cs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ourhealth",
+            "certificate_hash": "bdbf24c646c84fe85061c57d046c4bf2cf401d94"
+          }
+        },
+        {
+          "client_id": "796722016166-0tfngbjmpksuhfkshkkdov3m7r8v32ki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk_XD55z4MF8scDtWXR5VskSrloSnNig4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "796722016166-0tfngbjmpksuhfkshkkdov3m7r8v32ki.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
